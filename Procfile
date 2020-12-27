@@ -1,1 +1,1 @@
-web: http-server
+web: gunicorn morecovid19graphs:app
